@@ -1,0 +1,2 @@
+# CryptoPtr
+simple smart ptr
